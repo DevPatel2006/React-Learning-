@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  color: white;
+}
+.Light{
+  align-items: center;
+  background-color: lightseagreen;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.Dark{
+  align-items: center;
+  background-color: darkolivegreen;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.nav2{
+  display: flex;
+  gap: 30px;
+}
